@@ -157,9 +157,8 @@ nav .logo img{
 /* For Mobiles */
 
 @media only screen and (max-width:700px) {
-     
-    }
-    nav ul li a{
+
+     nav ul li a{
         color:#562EFF;
     }
     nav{
@@ -223,16 +222,17 @@ nav .logo img{
         text-align: center;
     }
     
+    }
+    
+    
 
 
 
 /* For Tablets */
 
-@media only screen and (min-width: 698px) and (max-width:992px){
+@media only screen and (min-width: 688px) and (max-width:992px){
     
-    /* Top Players Top Blogs Latest Courses */
-
-    /* Common */
+   
     .container{
         width: 100%;
     }
